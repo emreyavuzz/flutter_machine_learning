@@ -1,0 +1,8 @@
+0 Dog
+1 Cat
+2 Elephant
+3 Bird
+4 Monkey
+5 Koala
+6 Panda
+7 Giraffe
